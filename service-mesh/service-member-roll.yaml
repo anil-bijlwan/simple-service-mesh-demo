@@ -5,7 +5,7 @@ metadata:
     - maistra.io/istio-operator
   generation: 12
   name: default
-  namespace: istio-system
+  namespace: user1-dev-istio-system
 spec:
   members:
     - service-mesh-demo
